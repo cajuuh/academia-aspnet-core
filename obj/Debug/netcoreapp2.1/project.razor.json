@@ -2716,6 +2716,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views/Admin/form.cshtml",
+      "TargetPath": "Views/Admin/form.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views/Admin/nada.cshtml",
       "TargetPath": "Views/Admin/nada.cshtml",
       "FileKind": "mvc"

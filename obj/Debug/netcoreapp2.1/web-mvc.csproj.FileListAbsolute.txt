@@ -64,3 +64,4 @@
 /home/pfalcantara/Webdev/academia-aspnet-core/obj/Debug/netcoreapp2.1/web-mvc.pdb
 /home/pfalcantara/Webdev/academia-aspnet-core/obj/Debug/netcoreapp2.1/web-mvc.csproj.CopyComplete
 /home/pfalcantara/Webdev/academia-aspnet-core/obj/Debug/netcoreapp2.1/Razor/Views/Admin/nada.g.cshtml.cs
+/home/pfalcantara/Webdev/academia-aspnet-core/obj/Debug/netcoreapp2.1/Razor/Views/Admin/form.g.cshtml.cs
