@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/home/cajuuh/webdev/academia-stefanini-dotnet/web-mvc/web-mvc.csproj": {}
+    "/home/pfalcantara/Webdev/academia-aspnet-core/web-mvc.csproj": {}
   },
   "projects": {
-    "/home/cajuuh/webdev/academia-stefanini-dotnet/web-mvc/web-mvc.csproj": {
+    "/home/pfalcantara/Webdev/academia-aspnet-core/web-mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/cajuuh/webdev/academia-stefanini-dotnet/web-mvc/web-mvc.csproj",
+        "projectUniqueName": "/home/pfalcantara/Webdev/academia-aspnet-core/web-mvc.csproj",
         "projectName": "web-mvc",
-        "projectPath": "/home/cajuuh/webdev/academia-stefanini-dotnet/web-mvc/web-mvc.csproj",
-        "packagesPath": "/home/cajuuh/.nuget/packages/",
-        "outputPath": "/home/cajuuh/webdev/academia-stefanini-dotnet/web-mvc/obj/",
+        "projectPath": "/home/pfalcantara/Webdev/academia-aspnet-core/web-mvc.csproj",
+        "packagesPath": "/home/pfalcantara/.nuget/packages/",
+        "outputPath": "/home/pfalcantara/Webdev/academia-aspnet-core/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/cajuuh/.nuget/NuGet/NuGet.Config"
+          "/home/pfalcantara/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
@@ -51,6 +51,7 @@
               "version": "[2.1.2, )"
             },
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
